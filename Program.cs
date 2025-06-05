@@ -1,6 +1,9 @@
 ﻿using System;
-using LogicaEmCSharp;
-//Cronometro.Main(args);
-//Temporizador.Main(args);
-//Faccat1.Main(args);
+using ExerciciosCSharp;
 
+//Exercicio1.Main(args);
+//booleanosExercicios.Main(args);
+//QuebraDeCSharp.Main(args);
+//whileBreak.Main(args);
+//Continuar.Main(args);
+Vetor.Main(args);
